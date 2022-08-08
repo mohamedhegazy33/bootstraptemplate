@@ -1,0 +1,44 @@
+.navbar .white{
+    color: #fff;
+}
+.navbar-nav .nav-link.active{
+    color: #fff;
+}
+.nav-link{
+    color: #fff;
+}
+.nav-link:focus, .nav-link:hover {
+
+    color: #fff;
+}
+.navbar-nav .opacity{
+  color:rgba(255,255,255,.55);
+}
+/* .container-fluid .navbar-toggler .opacity{
+background-color: rgba(255,255,255,.55);
+} */
+.cards{
+    padding: 50px 0;
+}
+.row .col-lg-4 .col-4-content {
+    text-align: center;
+}
+.line , .gallary-line{
+    margin: 100px 0 100px 0;
+}
+.col-md-7 .gallery-heading{
+    font-weight: 400;
+    font-size: 55px;
+    margin-top: 100px;
+}
+.col-md-7 .gallery-heading span{
+    color: #6c757d;
+}
+.col-md-7 .gallery-des{
+    font-size: 25px;
+    font-weight: 300;
+}
+
+.ml-28{
+    margin-left: px;
+}
